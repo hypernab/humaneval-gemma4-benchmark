@@ -6,7 +6,7 @@ Passed:          156
 Failed:          8
 pass@1 score:    95.1%
 
-Failed problems (good for writeup analysis):
+Failed problems:
   - HumanEval/109
   - HumanEval/12
   - HumanEval/129
