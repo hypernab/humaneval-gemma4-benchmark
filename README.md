@@ -15,7 +15,7 @@
 
 > **"Can a model released in 2026 solve coding problems designed to challenge AI in 2021?"**
 >
-> **Short answer: 95.1% of the time.**
+> **Short answer: well duh- 95.1% of the time.**
 
 <br/>
 
