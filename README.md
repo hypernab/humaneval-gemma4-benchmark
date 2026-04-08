@@ -35,7 +35,7 @@ Their best model at the time, **Codex**, scored **28.8% pass@1**.
 
 This project asks: *how far have we come since then?*
 
-Idenpendently ran the same 164 problems on **Gemma 4 31B** Google DeepMind's flagship open model released just 7 days before this project. Only zero shot evaluation.
+Ran same 164 problems on **Gemma 4 31B** Google DeepMind's flagship open model released just 7 days before this project. Only zero shot evaluation.
 
 ---
 
