@@ -39,7 +39,7 @@ Idenpendently ran the same 164 problems on **Gemma 4 31B** Google DeepMind's fla
 
 ---
 
-## 🏆 Results
+## Results
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Idenpendently ran the same 164 problems on **Gemma 4 31B** Google DeepMind's fla
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Dataset
 **HumanEval** (Chen et al., 2021) — 164 hand-written Python problems, each with a function signature, docstring, and hidden unit tests. Loaded directly from `openai/openai_humaneval`
@@ -132,7 +132,7 @@ Results save automatically to Google Drive after every single problem — safe a
 
 ---
 
-## 📚 References
+## References
 
 ```bibtex
 @article{chen2021codex,
@@ -152,7 +152,7 @@ Results save automatically to Google Drive after every single problem — safe a
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 `Python` · `Google Colab` · `Google AI Studio` · `google-genai` · `HuggingFace Datasets` · `human-eval` · `Matplotlib`
 
