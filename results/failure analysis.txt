@@ -1,0 +1,17 @@
+==================================================
+RESULTS BREAKDOWN
+==================================================
+Total problems:  164
+Passed:          156
+Failed:          8
+pass@1 score:    95.1%
+
+Failed problems (good for writeup analysis):
+  - HumanEval/109
+  - HumanEval/12
+  - HumanEval/129
+  - HumanEval/133
+  - HumanEval/134
+  - HumanEval/5
+  - HumanEval/88
+  - HumanEval/95
