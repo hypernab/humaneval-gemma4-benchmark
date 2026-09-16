@@ -16,6 +16,7 @@
 > **"Can a model released in 2026 solve coding problems designed to challenge AI in 2021?"**
 >
 > **Short answer: well duh- 95.1% of the time.**
+> **Even 100% when done properly, check out Maxim's benchmark results [https://github.com/Maxim-Mazurok/llm-eval-workbench/blob/main/RESULTS.md]**
 
 <br/>
 
